@@ -1,0 +1,16 @@
+{
+"type" : "record",
+"name" : "Likestaging",
+"namespace" : "namespace": "com.loudacre.data",
+"fields" : [
+{ "name" : "eid" , "type" : "int"},
+{ "name" : "ename" , "type" : "string"},
+{ "name" : "age" , "type" : "int"},
+{ "name" : "jobtype" , "type" : "string"},
+{ "name" : "storeid" , "type" : "int"},
+{ "name" : "storelocation" , "type" : "string"},
+{ "name" : "salary" , "type" : "bigint"},
+{ "name" : "yrsofexp" , "type" : "int"}
+
+]
+}
